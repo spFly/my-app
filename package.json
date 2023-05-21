@@ -40,6 +40,9 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^5.0.0"
+    "gh-pages": "^5.0.0",
+    "i": "^0.3.7",
+    "jest-watch-typeahead": "^0.6.5",
+    "npm": "^9.6.7"
   }
 }

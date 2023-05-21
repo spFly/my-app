@@ -62,6 +62,8 @@ export function gen_pass(
   isSimbol,
   isNumber
 ) {
+  console.log(passwordLength, isCapital, isSmall, isSimbol, isNumber);
+
   let generatedPassword = "";
 
   let randik = 0;
